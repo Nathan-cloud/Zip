@@ -389,7 +389,7 @@ h5,
     margin: 0;
     position: absolute;
     top: 0;
-    left: 4em;
+    left: 3.5em;
     height: 100%;
     text-transform: uppercase;
     font-weight: 500;
@@ -995,8 +995,8 @@ h5,
 }
 
 .staff .img {
-    height: 150px;
-    width: 150px;
+    height: 300px;
+    width: 300px;
     display: block;
     margin: 0 auto;
     background-position: top center;
@@ -1058,7 +1058,8 @@ h5,
     -o-transition: all .3s ease;
     -webkit-transition: all .3s ease;
     -ms-transition: all .3s ease;
-    transition: all .3s ease
+    transition: all .3s ease;
+    font-size: 25px;
 }
 
 .staff .ftco-social li a {
