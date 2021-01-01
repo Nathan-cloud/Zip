@@ -1000,10 +1000,6 @@ h5,
     display: block;
     margin: 0 auto;
     background-position: top center;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    border-radius: 50%;
     -moz-transition: all .3s ease;
     -o-transition: all .3s ease;
     -webkit-transition: all .3s ease;
@@ -1080,7 +1076,8 @@ h5,
 }
 
 .ftco-services .nav-link-wrap {
-    background: #31de79
+    background: #31de79;
+    
 }
 
 @media(min-width:768px) {
@@ -1106,7 +1103,7 @@ h5,
     border-radius: 0;
     margin-bottom: 0;
     color: rgba(255, 255, 255, .8);
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 400;
     position: relative
 }
@@ -1134,7 +1131,7 @@ h5,
 .ftco-services .nav-pills .nav-link.active,
 .ftco-services .nav-pills .nav-link:hover {
     color: #fff;
-    font-size: 20px;
+    font-size: 15px;
     -moz-transition: all .3s ease;
     -o-transition: all .3s ease;
     -webkit-transition: all .3s ease;
